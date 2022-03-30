@@ -13,8 +13,8 @@ html, body{
 
 body {
     font-family: 'Montserrat', Light 300 Italic;
-    color: #f74785;
-    background:background:linear-gradient(#ff1744, #ff1750);
+    color: #FF99335;
+    background:linear-gradient(#DB4035, #B8255F);
 }
 
 
@@ -46,7 +46,7 @@ h1 {
     font-size: calc(2rem + 2vw);
     font-weight: 900;
     letter-spacing: 0.1rem;
-    color: #f74780;
+    color: #FAD000;
 }
 
 p {
@@ -64,14 +64,14 @@ p {
 
 
 a {
-    color: ##B388FF;
-    opacity: 0.5;
+    color: #000;
+    opacity: 0.8;
     text-decoration: none;
     transition: all ease .5s;
 }
 
 a:hover {
-    color: #311B92;
+    color: #000;
     opacity: 1;
     transition: all ease .5s;
 }
