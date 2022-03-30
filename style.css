@@ -14,7 +14,7 @@ html, body{
 body {
     font-family: 'Montserrat', Light 300 Italic;
     color: #f74785;
-    background:background: linear-gradient(top, FF1744, FF1750);
+    background:background:linear-gradient(#ff1744, #ff1750);
 }
 
 
@@ -27,7 +27,7 @@ header, footer {
 main {
     width: 90vw;
     margin: 0;
-    padding: 0 5vw;
+    padding: 0 15vw;
 }
 
 
@@ -71,7 +71,7 @@ a {
 }
 
 a:hover {
-    color: #000;
+    color: #832;
     opacity: 1;
     transition: all ease .5s;
 }
