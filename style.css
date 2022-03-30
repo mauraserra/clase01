@@ -12,22 +12,22 @@ html, body{
 }
 
 body {
-    font-family: 'Work Sans', sans-serif;
-    color: #263238;
-    background: linear-gradient(#eceff1, #cfd8dc);
+    font-family: 'Montserrat', Light 300 Italic;
+    color: #263738;
+    background:background: -o-linear-gradient(top, FF1744, ff0000);
 }
 
 
 header, footer {
     width: 90vw;
     margin: 0;
-    padding: 5vh 5vw;
+    padding: 10vh 10vw;
 }
 
 main {
     width: 90vw;
     margin: 0;
-    padding: 0 5vw;
+    padding: 0 10vw;
 }
 
 
