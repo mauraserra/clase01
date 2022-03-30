@@ -50,7 +50,7 @@ h1 {
 }
 
 p {
-    line-height: 1.5;
+    line-height: 2;
     font-size: 1.25rem;
 }
 
@@ -64,14 +64,14 @@ p {
 
 
 a {
-    color: #000;
+    color: ##B388FF;
     opacity: 0.5;
     text-decoration: none;
     transition: all ease .5s;
 }
 
 a:hover {
-    color: #832;
+    color: #311B92;
     opacity: 1;
     transition: all ease .5s;
 }
