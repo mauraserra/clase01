@@ -13,7 +13,7 @@ html, body{
 
 body {
     font-family: 'Montserrat', Light 300 Italic;
-    color: #FF99335;
+    color: #FAD000;
     background:linear-gradient(#DB4035, #B8255F);
 }
 
@@ -64,14 +64,14 @@ p {
 
 
 a {
-    color: #000;
+    color: #7ECC49;
     opacity: 0.8;
     text-decoration: none;
     transition: all ease .5s;
 }
 
 a:hover {
-    color: #000;
+    color: #299438;
     opacity: 1;
     transition: all ease .5s;
 }
