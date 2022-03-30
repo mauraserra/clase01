@@ -13,8 +13,8 @@ html, body{
 
 body {
     font-family: 'Montserrat', Light 300 Italic;
-    color: #263738;
-    background:background: -o-linear-gradient(top, FF1744, ff0000);
+    color: #f74785;
+    background:background: linear-gradient(top, FF1744, FF1750);
 }
 
 
@@ -27,7 +27,7 @@ header, footer {
 main {
     width: 90vw;
     margin: 0;
-    padding: 0 10vw;
+    padding: 0 5vw;
 }
 
 
