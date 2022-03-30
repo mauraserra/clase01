@@ -46,7 +46,7 @@ h1 {
     font-size: calc(2rem + 2vw);
     font-weight: 900;
     letter-spacing: 0.1rem;
-    color: #37474f;
+    color: #f74780;
 }
 
 p {
@@ -65,7 +65,7 @@ p {
 
 a {
     color: #000;
-    opacity: 0.8;
+    opacity: 0.5;
     text-decoration: none;
     transition: all ease .5s;
 }
